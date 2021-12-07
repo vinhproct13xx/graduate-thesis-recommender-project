@@ -1,0 +1,24 @@
+<markers>
+    <marker id="640" name="Cháo Vịt Thanh Đa (Gốc Nhà Lá) - Bình Quới"
+            address="118 Bình Qưới, P. 27, Quận Bình Thạnh, TP. HCM" lat="10.8139" lng="106.717" type="restaurant"/>
+    <marker id="643" name="Buffet Atrium Cafe - Lotte Legend Saigon Hotel"
+            address="2A - 4A Tôn Đức Thắng, P. Bến Nghé, Quận 1, Quận 1, TP. HCM" lat="10.7782" lng="106.707"
+            type="restaurant"/>
+    <marker id="687" name="Buffet Thanh Niên" address="11 Nguyễn Văn Chiêm, Quận 1, TP. HCM" lat="10.7817" lng="106.699"
+            type="restaurant"/>
+    <marker id="1024" name="Tuệ Mẫn Cafe - Êm Đềm Một Không Gian" address="452 Cây Trâm, P.9, Quận Gò Vấp, TP. HCM"
+            lat="10.8437" lng="106.648" type="restaurant"/>
+    <marker id="1043" name="Khu Ăn Vặt An Dương Vương" address="An Dương Vương , Quận 5, TP. HCM" lat="10.7607"
+            lng="106.682" type="restaurant"/>
+    <marker id="1256" name="Đất Cafe - Phong Cách Nhà Vườn" address="343/5 Tô Hiến Thành, P. 12, Quận 10, TP. HCM"
+            lat="10.7764" lng="106.665" type="restaurant"/>
+    <marker id="1259" name="Khúc Mùa Thu Cafe" address="22/3 Đường Số 21, P. 8, Quận Gò Vấp, TP. HCM" lat="10.8407"
+            lng="106.651" type="restaurant"/>
+    <marker id="1393" name="Bánh Canh Cua Hoàng Lan - Vĩnh Viễn" address="484 Vĩnh Viễn, Quận 10, TP. HCM" lat="10.7633"
+            lng="106.665" type="restaurant"/>
+    <marker id="1399" name="Pasha - Ẩm Thực Thổ Nhĩ Kỳ" address="25 Đông Du, P. Bến Nghé, Quận 1, TP. HCM" lat="10.7761"
+            lng="106.705" type="restaurant"/>
+    <marker id="1422" name="Quán Ăn Chay Thuyền Viên - Nguyễn Văn Đậu"
+            address="11 - 13 Nguyễn Văn Đậu, P. 5, Quận Phú Nhuận, TP. HCM" lat="10.8044" lng="106.687"
+            type="restaurant"/>
+</markers>

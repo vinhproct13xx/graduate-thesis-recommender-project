@@ -1,0 +1,112 @@
+{
+    "hello" : "Hellooooo",
+    "suggest" : "Suggestion",
+    "saved" : "Saved",
+    "newest" : "Newest",
+    "open" : "Opening",
+    "profile" : "Profile",
+    "new_location" : "Create a location",
+    "login" : "Login",
+    "logout" : "Logout",
+    "collection" : "Collection",
+    "own_res" : "Your restaurant",
+    "info" : "Account",
+    "discover" : "Discover",
+    "success" : "Success",
+    "new_res" : "New restaurant",
+    "res_name" : "Restaurant name",
+    "description" : "Description",
+    "address" : "address",
+    "image_url" : "Image",
+    "coordination" : "Coordination",
+    "Latitude" : "Latitude",
+    "Longitude" : "Longitude",
+    "category" : "Category",
+    "district" : "District",
+    "city" : "City",
+    "open_hour" : "Open hour",
+    "open_minute" : "Open minute",
+    "close_hour" : "Close hour",
+    "close_minuter" : "Close minute",
+    "min_price" : "Min price",
+    "max_price" : "Max price",
+    "submit" : "Submit",
+
+    "fail" : "Fail!",
+
+    "file_is_not_exist" : "File is not exist",
+
+    "path_is_exist" : "Path is exist",
+
+    "status_is_changed" : "Status is changed",
+
+    "email_or_password_is_invalid": "Invalid email or password",
+
+    "old_password_is_incorrect": "Old password is incorrect",
+
+    "email_is_incorrect": "Email is incorrect",
+
+    "token_is_invalid": "Token is invalid",
+
+    "code_is_invalid": "Code is invalid!",
+
+    "not_found_data": "Data is not found!",
+
+    "session_is_expired": "Session is expired",
+
+    "send_email_success": "Send email success",
+
+    "information_is_invalid": "Information is invalid",
+
+    "is_required": ":name is required",
+
+    "password_must_be_at_least": "Password must be at least :number characters",
+
+    "email_is_invalid_formart": "The email must be a valid email address.",
+
+    "email_is_exist": "The email has already been taken",
+
+    "category_is_not_found" : "Category is not found",
+
+    "comment_is_not_found" :"Comment is not found",
+
+    "contact_is_not_found" :"Contact is not found",
+
+    "customer_is_not_found" :"Customer is not found",
+
+    "page_is_not_found" :"Page is not found",
+
+    "post_is_not_found" :"Post is not found",
+
+    "post_type_is_not_found" :"Post Type is not found",
+
+    "product_is_not_found" :"Product is not found",
+
+    "question_is_not_found" :"Question is not found",
+
+    "price_service_change" :"Service prices have been changed. Please select the service again",
+
+    "service_not_invalid": "List service not invalid. Please check service again",
+
+    "error_payment": "There was an error during the checkout process. Please check again",
+
+    "service_changed": "The :name service does not exist on the system. Please check again",
+
+    "payment_publish": "Paid",
+
+    "capcha_invalid": "Capcha is not valid",
+
+    "order_code_invalid": "The current Order Code is not valid. Please check and save the new Order Code",
+
+    "account_invalid": "Account Information is not valid. Please check again",
+
+    "please_check_email_at" : "Please check email at :email to reset password",
+
+    "token_is_expired" : "Token is expired",
+
+    "coupon_invalid": "Coupon code is not valid",
+
+    "coupon_limit": "Promotion apply first-time customer. Please check again coupon code",
+
+    "nearest" : "Nearest"
+}

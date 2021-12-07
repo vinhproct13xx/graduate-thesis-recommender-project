@@ -1,0 +1,113 @@
+{
+    "hello" : "Hellooooo",
+
+    "success" : "Thành công",
+    "suggest" : "Gợi ý",
+    "saved" : "Đã lưu",
+    "newest" : "Mới nhất",
+    "open" : "Đang mở cửa",
+    "profile" : "Quản lý tài khoản",
+    "new_location" : "Thêm mới địa điểm",
+    "login" : "Đăng nhập",
+    "logout" : "Đăng xuất",
+    "collection" : "Bộ sưu tập",
+    "own_res" : "Địa điểm của bạn",
+    "info" : "Thông tin cá nhân",
+    "discover" : "Khám phá",
+    "fail" : "Thất bại!",
+    "new_res" : "Thêm mới nhà hàng",
+    "res_name" : "Tên nhà hàng",
+    "description" : "Mô tả",
+    "address" : "Địa chỉ",
+    "image_url" : "HÌnh ảnh",
+    "coordination" : "Tọa độ",
+    "Latitude" : "Vĩ độ",
+    "Longitude" : "Kinh độ",
+    "category" : "Loại hình",
+    "district" : "Quận",
+    "city" : "Thành phố",
+    "open_hour" : "Giờ mở cửa",
+    "open_minute" : "Phút mở cửa",
+    "close_hour" : "Giờ đóng cửa",
+    "close_minuter" : "Phút đóng cửa",
+    "min_price" : "Giá tiền nhỏ nhất",
+    "max_price" : "Giá tiền lớn nhất",
+    "submit" : "Gửi",
+
+    "file_is_not_exist" : "File không tồn tại",
+
+    "path_is_exist" : "Đường dẫn đã tồn tại",
+
+    "status_is_changed" : "Trạng thái đã được thay đổi",
+
+    "email_or_password_is_invalid": "Email hoặc mật khẩu không hợp lệ",
+
+    "old_password_is_incorrect": "Mật khẩu cũ không đúng",
+
+    "email_is_incorrect": "Email không đúng",
+
+    "token_is_invalid": "Token không hợp lệ",
+
+    "token_is_expired": "Token đã hết hạn",
+
+    "code_is_invalid": "Code không hợp lệ!",
+
+    "not_found_data": "Không tìm thấy dữ liệu!",
+
+    "session_is_expired": "Session đã hết hạn",
+
+    "send_email_success": "Gửi mail thanh công",
+
+    "information_is_invalid": "Thông tin không hợp lệ",
+
+    "is_required": ":name bắt buộc phải có",
+
+    "password_must_be_at_least": "Mật khẩu phải ít nhất :number ký tự",
+
+    "email_is_invalid_formart": "Email phải là một địa chỉ email hợp lệ",
+
+    "email_is_exist": "Email này đã tồn tại",
+
+    "category_is_not_found" : "Category is not found",
+
+    "comment_is_not_found" :"Comment is not found",
+
+    "contact_is_not_found" :"Contact is not found",
+
+    "customer_is_not_found" :"Customer is not found",
+
+    "page_is_not_found" :"Page is not found",
+
+    "post_is_not_found" :"Post is not found",
+
+    "post_type_is_not_found" :"Post Type is not found",
+
+    "product_is_not_found" :"Product is not found",
+
+    "question_is_not_found" :"Question is not found",
+
+    "price_service_change" :"Service prices have been changed. Please select the service again",
+
+    "service_not_invalid": "List service not invalid. Please check service again",
+
+    "error_payment": "There was an error during the checkout process. Please check again",
+
+    "service_changed": "The :name service does not exist on the system. Please check again",
+
+    "payment_publish": "Paid",
+
+    "capcha_invalid": "Capcha is not valid",
+
+    "order_code_invalid": "The current Order Code is not valid. Please check and save the new Order Code",
+
+    "account_invalid": "Account Information is not valid. Please check again",
+
+    "please_check_email_at" : "Please check email at :email to reset password",
+
+    "coupon_invalid": "Mã khuyến mãi không hợp lệ",
+
+    "coupon_limit": "Mã khuyễn mãi đã hết lượt sử dụng",
+
+    "nearest" : "Gần nhất"
+
+}
